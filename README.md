@@ -1,1 +1,1 @@
-Just a simple mod to add my custom music discs!
+#A Simple mod to implement my custom music discs for my server!
