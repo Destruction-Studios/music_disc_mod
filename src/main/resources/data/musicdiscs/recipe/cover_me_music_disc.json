@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:sponge",
+    "E": "minecraft:diamond"
+  },
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "musicdiscs:cover_me_music_disc"
+  }
+}

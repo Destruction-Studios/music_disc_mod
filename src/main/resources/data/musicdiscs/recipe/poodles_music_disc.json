@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:amethyst_shard",
+    "E": "minecraft:diamond"
+  },
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "musicdiscs:poodles_music_disc"
+  }
+}
