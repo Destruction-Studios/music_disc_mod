@@ -18,12 +18,10 @@ public class ModItems {
             "sick_of_it_music_disc",
             ModSounds.SICK_OF_IT_KEY
     );
-
     public static final Item SPOOKY_SCARY_SKELETON_MUSIC_DISC = register(
             "spooky_scary_skeleton_music_disc",
             ModSounds.SPOOKY_SCARY_SKELETON_KEY
     );
-
     public static final Item COVER_ME_MUSIC_DISC = register(
             "cover_me_music_disc",
             ModSounds.COVER_ME_KEY
@@ -31,6 +29,10 @@ public class ModItems {
     public static final Item POODLES_MUSIC_DISC = register(
             "poodles_music_disc",
             ModSounds.POODLES_KEY
+    );
+    public static final Item NEVER_GONNA_GIVE_MUSIC_DISC = register(
+            "never_gonna_give_music_disc",
+            ModSounds.NEVER_GONNA_GIVE_KEY
     );
 
 

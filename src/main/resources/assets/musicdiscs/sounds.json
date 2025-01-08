@@ -32,5 +32,13 @@
         "stream": true
       }
     ]
+  },
+  "never_gonna_give": {
+    "sounds": [
+      {
+        "name": "musicdiscs:never_gonna_give",
+        "stream": true
+      }
+    ]
   }
 }

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 14,
+  "description": {
+    "translate": "item.musicdiscs.never_gonna_give_music_disc.desc"
+  },
+  "length_in_seconds": 208.0,
+  "sound_event": "musicdiscs:never_gonna_give"
+}
