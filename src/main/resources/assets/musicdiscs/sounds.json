@@ -1,0 +1,36 @@
+{
+  "sick_of_it": {
+    "sounds": [
+      {
+        "name": "musicdiscs:sick_of_it",
+        "stream": true,
+        "volume": 2
+      }
+    ]
+  },
+  "spooky_scary_skeleton": {
+    "sounds": [
+      {
+        "name": "musicdiscs:spooky_scary_skeleton",
+        "stream": true,
+        "volume": 1.1
+      }
+    ]
+  },
+  "cover_me": {
+    "sounds": [
+      {
+        "name": "musicdiscs:cover_me",
+        "stream": true
+      }
+    ]
+  },
+  "poodles": {
+    "sounds": [
+      {
+        "name": "musicdiscs:poodles",
+        "stream": true
+      }
+    ]
+  }
+}

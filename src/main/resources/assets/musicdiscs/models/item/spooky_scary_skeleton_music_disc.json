@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "musicdiscs:item/spooky_scary_skeleton_music_disc"
+  }
+}

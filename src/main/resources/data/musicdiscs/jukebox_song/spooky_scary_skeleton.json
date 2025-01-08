@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.musicdiscs.spooky_scary_skeleton_music_disc.desc"
+  },
+  "length_in_seconds": 160.0,
+  "sound_event": "musicdiscs:spooky_scary_skeleton"
+}
